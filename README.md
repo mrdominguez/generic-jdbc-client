@@ -135,7 +135,7 @@ $ mvn clean package
 [INFO] -----------------< com.github.mrdominguez:JdbcClient >------------------
 [INFO] Building JdbcClient 5.0-SNAPSHOT
 [INFO] --------------------------------[ jar ]---------------------------------
-        <more output here>
+       <... output omitted>
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
